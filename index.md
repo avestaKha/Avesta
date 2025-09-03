@@ -5,10 +5,7 @@ I’m a statistics MSc student interested in probability, machine learning, and 
 ---
 
 ## Projects
-- [📄 Project 1 (PDF)](assets/project1.pdf)
-- [📄 Project 2 (PDF)](assets/project2.pdf)
+- [📄 Project 1 (PDF)](assets/BSC_Risk_Avesta-2.pdf)
+- [📄 Project 2 (PDF)](assets/SemPaper2025.pdf)
 
 ---
-
-## Math Book Solutions
-- [Billingsley Solutions](https://avestakha.github.io/BillingsleySol/)
