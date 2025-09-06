@@ -1,6 +1,6 @@
-# Hi, I’m Avestakha 👋
+# Hi, I’m Avesta 👋
 
-I’m a statistics MSc student at ETH Zurich interested in statistics, probability theory and applications.
+I’m a statistics MSc student at ETH Zurich broadly interested in statistics, probability theory and applications.
 
 ---
 
