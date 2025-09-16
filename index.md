@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Hi, I’m Avesta 👋
 
 I’m a statistics MSc student at ETH Zurich broadly interested in statistics, probability theory and applications.
