@@ -5,7 +5,7 @@ I’m a statistics MSc student at ETH Zurich broadly interested in statistics, p
 ---
 
 ## 📄 Projects
-See my [Projects folder](/assets/) for past work (downloadable PDFs).
+See my [Projects folder](/assets/) for past work (downloadable PDFs and code).
 
 ---
 
